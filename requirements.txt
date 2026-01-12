@@ -1,0 +1,7 @@
+openai
+pydantic
+chromadb
+tiktoken
+python-dotenv
+numpy
+colorama
