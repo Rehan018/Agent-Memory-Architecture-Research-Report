@@ -4,7 +4,6 @@
 
 **Date**: 2026-01-12
 **Authored By**: Rehan
-**Repository**: `/home/rehan/Pictures/Agent Memory Architecture Research/`
 
 ---
 
